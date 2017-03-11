@@ -1,0 +1,9 @@
+﻿{
+"ServerName": "VSUSASXD02",
+"RDMName": ["SXD02_RDM_VOL2", "SXD02_RDM_VOL1"],
+"BackupSetName": "Xmedia_Backup_Set",
+"ServerMapping": "Compellent Large",
+"DriveLetters": ["D", "E"],
+"OSVersion": "2012",
+"ExcludedDatabaseList": ["DBA", "master", "model", "msdb", "SSISDB", "xMedia_stage"]
+}

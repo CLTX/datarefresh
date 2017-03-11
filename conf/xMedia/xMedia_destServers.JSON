@@ -1,0 +1,10 @@
+﻿{
+"ServerName": ["VSUSAPXR01", "VSUSAPXR02", "VSUSAPXR03"],
+"FolderName": "xMedia",
+"NewRDMIdentifer": "NULL",
+"OSVersion": "2012",
+"ServerMapping": "Compellent UCS",
+"DriveLetters": ["D", "E"],
+"DataPath" : "E:\\MSSQL\\Data\\",
+"LogPath" : "D:\\MSSQL\\Logs\\"
+}
